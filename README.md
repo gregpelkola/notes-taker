@@ -5,12 +5,16 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+
   To create an application that a user could use to save and delete notes.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+
   So a user could save and delete notes, create reminders and lists for day to day organization.
 - What problem does it solve?
-  Save notes so a user can look back and have a reminder of what needs to be done. 
+
+   Save notes so a user can look back and have a reminder of what needs to be done. 
 - What did you learn?
+
   Express, node, and testing.
 
 ## Table of Contents (Optional)
@@ -25,11 +29,13 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
 Clone repository and save to your chosen directory. 
 
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
+
 Open repository in VSCode or other IDE. Right click in directory drop down on the left side, click open intergrated terminal. In the terminal run npm i to install node modules. In the terminal run npm start to start the server. Ctrl + click on the link for local host to open the application. In the application the user can click on the start button to load the notes. Click on the Note Title to add a title for the note, then click Note Text to add a note. Once the user has entered a title and note, click save note to save the note, the note will be saved on the left side, if the user needs to delete a note click the trash can icon. To add a new note click on the New Note button on the top right. Once a title and note are added you can save or clear form to restart with a blank note.
 
 https://notes-taker-c285992a1dc3.herokuapp.com/     -Deployed
